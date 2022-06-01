@@ -1,0 +1,21 @@
+p.odd {
+    background-color: rgb(235, 160, 191);
+    color: rgb(0, 0, 0);
+    font-family: "Verdana", sans-serif;
+}
+
+p.cooler {
+    font-size: 24px;
+    font-family: "DejaVu Sans";
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#weirdo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
