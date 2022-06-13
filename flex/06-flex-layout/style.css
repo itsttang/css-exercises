@@ -44,7 +44,10 @@ input {
 
 ul {
   list-style-type: none;
-  gap: 16px;
+  gap: 20px;
+  display: flex;
+  margin-right: 30px;
+  margin-left: -10px
 }
 
 a {
