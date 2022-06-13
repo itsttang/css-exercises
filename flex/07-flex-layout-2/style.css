@@ -10,6 +10,11 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-weight: 900;
+  font-size: 32px;
+  align-items: center;
+  display: flex;
+  padding-left: 16px;
 }
 
 .footer {
@@ -25,6 +30,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  display: flex;
 }
 
 .card {
@@ -33,4 +39,5 @@ body {
   border-radius: 4px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: ;
 }
